@@ -1,1 +1,2 @@
-worker: node bot.js
+$ cat Procfile
+web: npm start
